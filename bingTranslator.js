@@ -1,6 +1,6 @@
 window._mstAppId = 'TfMk4dqD4fi9u0eQDWHlhd1lUOurcIXR4TfLsPrt1O2fSwwMnJWh484rP94ZNi9E5';
 window._mstToLang = 'en';
-?
+
 var sAppId = window._mstAppId || '';
 var sToLang = window._mstToLang || 'en';
 

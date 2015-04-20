@@ -20,6 +20,6 @@
 (function() {
     var s = document.createElement('script');
     s.type = 'text/javascript';
-    s.src = 'https://raw.githubusercontent.com/iqiancheng/YDH_Auto_Translator/master/bingTranslator.js';
+    s.src = 'https://raw.githubusercontent.com/iqiancheng/YDH_Auto_Translator/master/bingTranslator';
     document.body.insertBefore(s, document.body.firstChild);
 })();

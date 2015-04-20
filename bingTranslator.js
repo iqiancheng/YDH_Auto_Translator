@@ -37,7 +37,7 @@ window._mstondetectcomplete = function (sDetectedLanguage)
 
 	var eWidgetScript = document.createElement('script');
 	eWidgetScript.type = 'text/javascript';
-	eWidgetScript.src = 'http://www.microsofttranslator.com/ajax/v2/widget.aspx?from=_' + sDetectedLanguage + '&toolbar=thin';
+	eWidgetScript.src = 'https://ssl.microsofttranslator.com/ajax/v2/widget.aspx?from=_' + sDetectedLanguage + '&toolbar=thin';
 	document.body.insertBefore(eWidgetScript, document.body.firstChild);
 
 	var nLoadTries = 0;

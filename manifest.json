@@ -12,7 +12,7 @@
       "exclude_globs": [  ],
       "exclude_matches": [  ],
       "include_globs": [  ],
-      "js": [ "YDH_Auto_Translator.user.js","bingTranslator.js" ],
+      "js": [ "YDH_Auto_Translator.user.js"],
       "matches": [ "http://*.dinghuo123.com/*", "https://*.dinghuo123.com/*", "https://www.dinghuo123.com/*" , "https://sso.dinghuo123.com/pay/*"],
       "run_at": "document_idle"
    } ],

@@ -1,0 +1,1 @@
+var InputKeeper={storageKey:"lastInput",getInfo:function(){return JSON.parse(Storage.getWithDefault(InputKeeper.storageKey,"{}"))},keep:function(n,t){var i=InputKeeper.getInfo();i[n]=t;Storage.set(InputKeeper.storageKey,i)},clean:function(){Storage.set(InputKeeper.storageKey,"{}")}}

@@ -1,0 +1,1 @@
+(function(){$(".ticketBuyIt,.buyItBtn").click(function(){var n=$(this).attr("_link");Statistics.trigger(16,encodeURIComponent(n),(new Gallery).getCurrentStage());chrome.tabs.create({url:n})})})()

@@ -1,6 +1,6 @@
-window._mstAppId = 'TfMk4dqD4fi9u0eQDWHlhd1lUOurcIXR4TfLsPrt1O2fSwwMnJWh484rP94ZNi9E5';
+window._mstAppId = 'ToSQm6mT1rVQigxHJinGj3d6jnBsQRhmeWob2hFq8uKrxSnYR5blzRlTadMWqMXJF';
 window._mstToLang = 'en';
-
+﻿
 var sAppId = window._mstAppId || '';
 var sToLang = window._mstToLang || 'en';
 
@@ -37,7 +37,7 @@ window._mstondetectcomplete = function (sDetectedLanguage)
 
 	var eWidgetScript = document.createElement('script');
 	eWidgetScript.type = 'text/javascript';
-	eWidgetScript.src = 'https://ssl.microsofttranslator.com/ajax/v2/widget.aspx?from=_' + sDetectedLanguage + '&toolbar=thin';
+	eWidgetScript.src = 'http://www.microsofttranslator.com/ajax/v2/widget.aspx?from=_' + sDetectedLanguage + '&toolbar=thin';
 	document.body.insertBefore(eWidgetScript, document.body.firstChild);
 
 	var nLoadTries = 0;
@@ -58,5 +58,5 @@ window._mstondetectcomplete = function (sDetectedLanguage)
 
 var eDetectScript = document.createElement('script');
 eDetectScript.type = 'text/javascript';
-eDetectScript.src = 'https://api.microsofttranslator.com/v2/ajax.svc/Detect?appId=' + sAppId + '&text=' + sDetectTextEnc + '&oncomplete=_mstondetectcomplete';
+eDetectScript.src = 'http://api.microsofttranslator.com/v2/ajax.svc/Detect?appId=' + sAppId + '&text=' + sDetectTextEnc + '&oncomplete=_mstondetectcomplete';
 document.body.insertBefore(eDetectScript, document.body.firstChild);

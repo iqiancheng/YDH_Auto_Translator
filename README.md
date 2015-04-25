@@ -6,3 +6,9 @@
 YDH Auto translation assistant (Chinese - English). to help overseas users use the YDH system better.Transation Engine is powered by Mricosoft Bing Transator.	Translation errors and deviations caused by the translation process is inevitable, if you start to use this assistant, you are deemed to agree to and accept, the resulting All disputes in any legal responsibility and has nothing to do YDH System and Shenzhen 77ircloud Cloud Computing Co.,LTD.
 
 Author:千橙<yanpeng@77ircloud.com>
+
+#下载
+![本地下载]([google_web_store])
+[google_web_store]: https://chrome.google.com/webstore/detail/ydhautotranslatoren-易订货自动/ebodipeldhhfgigbdpjhjacmfcablphn 
+[github_repo]: https://github.com/iqiancheng/YDH_Auto_Translator
+[local_dl]: https://github.com/iqiancheng/YDH_Auto_Translator

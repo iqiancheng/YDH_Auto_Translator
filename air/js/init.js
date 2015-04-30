@@ -1,1 +1,0 @@
-$(document).ready(function(){var n;Storage.get("showStage")?(n=JSON.parse(Storage.remove("showStage")),(new Gallery).initShow(n.name,n.data)):(new Gallery).initShow(Storage.getWithDefault("lastStage","root"))})

@@ -8,9 +8,9 @@ YDH Auto translation assistant (Chinese - English). to help overseas users use t
 Author:千橙<yanpeng@77ircloud.com>
 
 ##Download
-LOCAL					  |ONLINE
---------------------------|-------------------------------------
-[last releases][local_dl] | [Google Web Store][google_web_store] 
+LOCAL					   |ONLINE
+---------------------------|-------------------------------------
+[latest version][local_dl] | [Google Web Store][google_web_store] 
 
 
 [google_web_store]: https://chrome.google.com/webstore/detail/ydhautotranslatoren-易订货自动/ebodipeldhhfgigbdpjhjacmfcablphn  "Google Web Store"

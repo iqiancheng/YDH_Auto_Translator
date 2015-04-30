@@ -8,7 +8,7 @@ YDH Auto translation assistant (Chinese - English). to help overseas users use t
 Author:千橙<yanpeng@77ircloud.com>
 
 ##Download
-local					  |Google Web Store
+LOCAL					  |ONLINE
 --------------------------|-------------------------------------
 [last releases][local_dl] | [Google Web Store][google_web_store] 
 

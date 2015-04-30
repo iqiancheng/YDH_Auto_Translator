@@ -11,4 +11,4 @@ Author:千橙<yanpeng@77ircloud.com>
 [本地下载][local_dl] [Google Web Store][google_web_store]
 [google_web_store]: https://chrome.google.com/webstore/detail/ydhautotranslatoren-易订货自动/ebodipeldhhfgigbdpjhjacmfcablphn  "Google Web Store"
 [github_repo]: https://github.com/iqiancheng/YDH_Auto_Translator
-[local_dl]: https://raw.githubusercontent.com/iqiancheng/YDH_Auto_Translator/master/download/YDH_Auto_Translator.crx  "本地下载"
+[local_dl]: https://github.com/iqiancheng/YDH_Auto_Translator/releases  "本地下载"
